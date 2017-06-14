@@ -28,8 +28,8 @@
             "subtitle":"Aug 31, 2016 5:20PM",
             "buttons":[
               {
-                "type":"web_url",
-               "url" : "https://raw.githubusercontent.com/AlbertoMera/Mybots/master/jsonSacramentoKings.json",
+                "type":"show_block",
+               "block_name" : "SACK info",
                 "title":"Show information"
               }
             ]
