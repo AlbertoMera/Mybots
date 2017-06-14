@@ -6,13 +6,13 @@
         "template_type":"generic",
         "elements":[
           {
-            "title":"Sacramento t-shirt",
-            "image_url":"http://nflshop.frgimages.com/lf?set=center_chest_chain[FG-211367]&set=right_sleeve_chain[]&set=left_sleeve_chain[]&call=url[http://dmimages.ff.p10/B/RUP-YTHGBSSTEE~WHITE~FRONT.txt]&scale=size[800]&sink=format[png]",
+            "title":"Sacramento Stadium",
+	 "image_url " : "http://arenadigest.com/wp-content/uploads/2016/02/golden1-4.jpg" 
             "subtitle":"Aug 22, 2016 7:00PM",
             "buttons":[
               {
                 "type":"show_block",
-                "block_name":"Broncos Ticker",
+                "block_name":"Buy tickets",
                 "title":"Subscribe for Ticker"
               },
               {
@@ -23,13 +23,13 @@
             ]
           },
           {
-            "title":"Sacramento kings fancy info",
-            "image_url":"http://www.zona-deportiva.com/wp-content/uploads/2016/07/Cousins-podr%C3%ADa-ir-a-Cleveland.jpg",
+            "title":"Sacramento City",
+            "image_url": "https://www.cityofsacramento.org/-/media/Corporate/Images/General/Riverfront.jpg?h=399&w=801&la=en"		
             "subtitle":"Aug 31, 2016 5:20PM",
             "buttons":[
               {
-                "type":"web_url",
-               "url" : "https://raw.githubusercontent.com/AlbertoMera/Mybots/master/jsonSacramentoKings.json",
+                "type":"show_block",
+                 "block_name":"jsonSacramentoKings.json",
                 "title":"Show information"
               }
             ]
