@@ -29,7 +29,7 @@
             "buttons":[
               {
                 "type":"show_block",
-               "block_name" : "SACK info",
+                "block_name":"SACK info",
                 "title":"Show information"
               }
             ]
