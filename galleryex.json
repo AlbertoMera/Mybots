@@ -1,63 +1,41 @@
- [
-    {
-      "attachment":{
-        "type":"template",
-        "payload":{
-          "template_type":"generic",
-          "elements":[
-            {
-              "title":"Estilo Collar en Madera",
-              "image_url":"https://www.tot-em.com/wp-content/uploads/2016/11/totem-collar-1.png",
-              "subtitle":"Nuestro totem más clásico en un collar de diseño",
-              "buttons":[
-                {
-                  "type":"show_block",
-                  "block_name":"Info collar madera",
-                  "title":"Ver ejemplo"
-                },
-                {
-                  "type":"web_url",
-                  "url":"https://www.tot-em.com/crear-totem/?material=wood_horizontal#product-wave",
-                  "title":"Comprar"
-                }
-              ]
-            },
-            {
-              "title":"Estilo Pulsera en Madera",
-              "image_url":"https://www.tot-em.com/wp-content/uploads/2016/11/totem-pulsera-1.png",
-              "subtitle":"Totem en madera de roble para la muñeca",
-              "buttons":[
-                {
-                  "type":"show_block",
-                  "block_name":"Info pulsera madera",
-                  "title":"Ver ejemplo"
-                },
-                {
-                  "type":"web_url",
-                  "url":"https://www.tot-em.com/crear-totem/?material=wood_pulsera#product-wave",
-                  "title":"Comprar"
-                }
-              ]
-            },
-            {
-              "title": "Estilo llavero en Madera",
-              "image_url": "https://www.tot-em.com/wp-content/uploads/2016/11/totem-bolsillo-1.png",
-              "subtitle":"Totem llavero para tenerlo siempre cerca",
-              "buttons":[
-                {
-                  "type":"show_block",
-                  "block_name":"Info llavero madera",
-                  "title":"Ver ejemplo"
-                },
-                {
-                  "type":"web url",
-                  "url":"https://www.tot-em.com/crear-totem/?material=wood_bolsillo#product-wave",
-                  "title":"Comprar"
-                }
-              ]
-            }
-          ]
-        }
+[
+  {
+    "attachment":{
+      "type":"template",
+      "payload":{
+        "template_type":"generic",
+        "elements":[
+          {
+            "title":"Estilo Collar en Madera",
+	          "image_url ":"https://www.tot-em.com/wp-content/uploads/2016/11/totem-collar-1.png",
+            "subtitle":"Nuestro totem más clásico en un collar de diseño",
+            "buttons":[
+              {
+                "type":"show_block",
+                "block_name":"Info collar madera",
+                "title":"Ver ejemplo"
+              },
+              {
+                "type":"web_url",
+                "url":"https://www.tot-em.com/crear-totem/?material=wood_horizontal#product-wave",
+                "title":"Comprar"
+              }
+            ]
+          },
+          {
+            "title":"Estilo pulsera en madera",
+            "image_url":"https://www.tot-em.com/wp-content/uploads/2016/11/totem-pulsera-1.png",
+            "subtitle": "Totem en madera de roble para la muñeca",
+            "buttons":[
+              {
+                "type":"show_block",
+                 "block_name":"Info pulsera madera",
+                "title":"Ver ejemplo"
+              }
+            ]
+          }
+        ]
       }
     }
-  ]
+  }
+]
