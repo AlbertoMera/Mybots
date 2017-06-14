@@ -1,5 +1,4 @@
-{
- "messages": [
+ [
     {
       "attachment":{
         "type":"template",
@@ -56,7 +55,7 @@
                   "title":"Comprar"
                 }
               ]
-            }               
+            }
           ]
         }
       }
