@@ -29,7 +29,7 @@
               "buttons":[
                 {
                   "type":"show_block",
-                  "url":"Info pulsera madera",
+                  "block_name":"Info pulsera madera",
                   "title":"Ver ejemplo"
                 },
                 {
@@ -46,7 +46,7 @@
               "buttons":[
                 {
                   "type":"show_block",
-                  "url":"Info llavero madera",
+                  "block_name":"Info llavero madera",
                   "title":"Ver ejemplo"
                 },
                 {
